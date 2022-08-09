@@ -2,7 +2,7 @@
   👋 Hi, I’m Sina  
 </h1>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/sina-khorami/">
+  <a href="https://www.linkedin.com/in/sina-khorrami/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://kaggle.com/sinakhorami/">
@@ -11,7 +11,7 @@
   <a href="https://stackoverflow.com/users/9977321/">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
   </a>&nbsp;
-  <a href="mailto:sinakhorami94@gmail.com">
+  <a href="mailto:sinakhorrami94@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>
 </p>
@@ -25,12 +25,12 @@
 
 <p align='center'>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=sinakhorami&show_icons=true&count_private=true&theme=vue-dark&border_color=273849">
+    <img src="https://github-readme-stats.vercel.app/api?username=sinakhorrami&show_icons=true&count_private=true&theme=vue-dark&border_color=273849">
   </a>
 </p>
 
 <p align='center'>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinakhorami&layout=compact&hide=java&theme=vue-dark&border_color=273849">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinakhorrami&layout=compact&hide=java&theme=vue-dark&border_color=273849">
   </a>
 </p>
